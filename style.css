@@ -1,0 +1,12 @@
+nav {
+    background: rgba(10,13,18,0.75);
+}
+
+.nav-inner{
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 14px 24px;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
